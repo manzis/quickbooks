@@ -1,0 +1,480 @@
+.christmas-2012-new-1771-1-icon3 {
+  height: 39px;
+  width: 38px;
+  position: relative;
+  border-radius: 15px;
+  object-fit: contain;
+}
+
+.quick-books1 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.contact-us-frame,
+.loginto-frame {
+  width: 179.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.contact-us-frame {
+  height: 45px;
+  width: 237px;
+  justify-content: space-between;
+  padding: 0 0 0 10px;
+  box-sizing: border-box;
+  gap: 9.5px;
+}
+.home4 {
+  position: relative;
+  cursor: pointer;
+}
+.contact-us1 {
+  color: #414141;
+  white-space: nowrap;
+}
+.contact-us1,
+.login8 {
+  position: relative;
+  cursor: pointer;
+}
+.sign-up1 {
+  position: relative;
+  font-size: 14px;
+  font-family: Poppins;
+  color: #fff;
+  text-align: left;
+}
+.sign-up-frame1 {
+  cursor: pointer;
+  border: 0;
+  padding: 10px 9px;
+  background-color: #38af00;
+  height: 40px;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  width: 80px;
+}
+.sign-up-frame1:hover {
+  background-color: #42cf00;
+}
+.home-contact-us-login-frame1,
+.home-frame1,
+.recipe-book-label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  max-width: 100%;
+}
+.home-contact-us-login-frame1 {
+  flex: 1;
+  justify-content: flex-end;
+  gap: 0 15px;
+}
+.home-frame1,
+.recipe-book-label {
+  justify-content: space-between;
+}
+.recipe-book-label {
+  height: 45px;
+  flex: 1;
+  padding: 0 35px 0 0;
+  box-sizing: border-box;
+  gap: 9px;
+  font-size: 14px;
+  color: #3a3a3a;
+}
+.home-frame1 {
+  align-self: stretch;
+  height: 55px;
+  background-color: #fff;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  background-color: #ffffff; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  transition: box-shadow 0.3s ease;
+}
+
+.log-into4 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+}
+.loginto-frame2 {
+  width: 139px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 2px 10px 0;
+  box-sizing: border-box;
+}
+.recipe-book10 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+}
+.loginto-frame1,
+.quick-books-label1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.quick-books-label1 {
+  width: 189px;
+  border-radius: 5px;
+  background-color: #f8d415;
+  padding: 3px 8px 3px 10px;
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 1;
+  margin-left: -20px;
+  font-size: 24px;
+  color: #0fa214;
+}
+.loginto-frame1 {
+  align-self: stretch;
+  row-gap: 20px;
+}
+.recipes-that-makes4 {
+  position: relative;
+  font-weight: 300;
+}
+.home-login-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 10px 10px 0;
+  font-size: 12.5px;
+  color: #767171;
+}
+.icons8-home-30-14 {
+  height: 15px;
+  width: 15px;
+  position: relative;
+  object-fit: contain;
+}
+.home-login4 {
+  position: relative;
+  font-size: 11px;
+  font-weight: 500;
+  font-family: Poppins;
+  color: #fff;
+  white-space: pre-wrap;
+  text-align: left;
+}
+.loginto-frame3,
+.quick-books-text {
+  flex-direction: row;
+  align-items: center;
+}
+.login-frame2,
+.login-landpage3,
+.loginto-frame3,
+.quick-books-text {
+  display: flex;
+  justify-content: flex-start;
+}
+.login-frame2 {
+  cursor: pointer;
+  border: 0;
+  padding: 8px;
+  background-color: #38a91c;
+  border-radius: 8px;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 5px;
+}
+.login-landpage3 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.login-landpage-frame1 {
+  width: 100%;
+  border-radius: 5px;
+  background-color: #f6f0f0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-sizing: border-box;
+  min-width: 350px;
+  max-width: 900px;
+}
+.sign-up-an3 {
+  margin: 0;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-size: 20px;
+  font-weight: 800;
+  font-family: Poppins;
+  color: #fff;
+  white-space: pre-wrap;
+  text-align: left;
+}
+.registration-form {
+  align-self: stretch;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 6px 10px;
+  box-sizing: border-box;
+}
+.your-email-address-frame-child,
+.your-email-address-frame-inner,
+.your-email-address-frame-item {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background-color: #fff;
+  align-self: stretch;
+  height: 42px;
+  border-radius: 10px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 13px 13px 14px;
+  box-sizing: border-box;
+  font-family: Poppins;
+  font-size: 11.5px;
+  color: rgba(143, 133, 133, 0.9);
+  min-width: 187px;
+}
+.your-email-address-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px 0;
+}
+.register-button {
+  margin: 0;
+  height: 13px;
+  width: 14px;
+  position: relative;
+  border-radius: 4px;
+  border: 0.1px solid #000;
+  box-sizing: border-box;
+}
+.by-signing-up3 {
+  flex: 1;
+  position: relative;
+  font-size: 10px;
+  font-family: Poppins;
+  color: #fff;
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+  min-width: 187px;
+}
+.by-agree-text {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 11px;
+}
+.register2 {
+  flex: 1;
+  position: relative;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #555;
+  text-align: center;
+}
+.register-frame1 {
+  cursor: pointer;
+  border: 0;
+  padding: 7px 10px 8px 13px;
+  background-color: #ecc400;
+  width: 81px;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.register-frame1:hover {
+  background-color: #ffcd18;
+}
+.registration-form-parent {
+  margin: 0;
+  flex: 1;
+  border-radius: 10px;
+  background-color: #38a91c;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24px 23px 24px 19px;
+  box-sizing: border-box;
+  gap: 18px 0;
+  min-width: 350px;
+  max-width: 360px;
+}
+.complete-name-frame,
+.terms-and-privacy-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  min-width: 350px;
+}
+.terms-and-privacy-text {
+  flex: 1;
+  max-width: 360px;
+}
+.complete-name-frame {
+  width: 100%;
+  max-width: 600px;
+}
+.frame-sign-upan-account-frame {
+  width: 940px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 20px;
+  box-sizing: border-box;
+  gap: 30px 0;
+  max-width: 100%;
+}
+.quick-books-inc1 {
+  width: 1380px;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 7.5px);
+  left: calc(50% - 690px);
+  display: inline-block;
+}
+.email-address-frame,
+.main-frame1,
+.quick-books-inc-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  font-family: Poppins;
+}
+.quick-books-inc-text {
+  align-self: stretch;
+  height: 69px;
+  background-color: #06b406;
+  align-items: flex-start;
+  padding: 10px;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  font-size: 10px;
+  color: #fff;
+}
+.email-address-frame,
+.main-frame1 {
+  text-align: left;
+}
+.email-address-frame {
+  align-self: stretch;
+  background-color: #fffefb;
+  overflow: hidden;
+  align-items: center;
+  padding: 72px 0 0;
+  box-sizing: border-box;
+  gap: 102px 0;
+  min-width: 350px;
+  max-width: 100%;
+  font-size: 25px;
+  color: rgba(64, 62, 62, 0.9);
+}
+.main-frame1 {
+  width: 100%;
+  position: relative;
+  align-items: flex-start;
+  gap: 10px 0;
+  letter-spacing: normal;
+  font-size: 15px;
+  color: #3c3c3c;
+}
+@media screen and (max-width: 1350px) {
+  .home-contact-us-login-frame1 {
+    display: flex;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .login-landpage-frame1 {
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .complete-name-frame {
+    max-width: 100%;
+  }
+  .email-address-frame {
+    gap: 102px 0;
+    padding-top: 47px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .log-into4 {
+    font-size: 20px;
+  }
+  .quick-books-label1 {
+    margin-left: 0;
+  }
+  .loginto-frame1 {
+    flex-wrap: wrap;
+  }
+  .sign-up-an3 {
+    font-size: 16px;
+  }
+  .terms-and-privacy-text {
+    gap: 0 65px;
+  }
+  .email-address-frame {
+    gap: 102px 0;
+    padding-top: 31px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .contact-us-frame {
+    width: 200px;
+  }
+  .home4,
+  .sign-up-frame1 {
+    display: none;
+  }
+}

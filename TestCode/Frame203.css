@@ -1,0 +1,532 @@
+.christmas-2012-new-1771-1-icon8 {
+  width: 38px;
+  position: relative;
+  border-radius: 15px;
+  height: 39px;
+  object-fit: cover;
+}
+.quick-books6 {
+  flex: 1;
+  position: relative;
+}
+.christmas-2012-new-1771-1-parent3,
+.quick-books-frame {
+  width: 112px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.christmas-2012-new-1771-1-parent3 {
+  width: 170px;
+  height: 45px;
+  justify-content: flex-start;
+  padding: 0 0 0 10px;
+  box-sizing: border-box;
+  gap: 0 10px;
+}
+.contact-us6,
+.home10 {
+  width: 40px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.contact-us6 {
+  width: 71px;
+  color: #414141;
+}
+.home-parent1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0 9px;
+}
+.icons8-test-account-60-12 {
+  width: 27px;
+  position: relative;
+  height: 22.5px;
+  object-fit: cover;
+}
+.frame-parent76,
+.icons8-test-account-60-1-frame {
+  height: 22.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0 5px;
+  box-sizing: border-box;
+}
+.frame-parent76 {
+  flex: 1;
+  height: 45px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  gap: 0 10px;
+  font-size: 12px;
+  color: #3a3a3a;
+}
+.bookviewpage,
+.frame-parent75 {
+  align-self: stretch;
+  display: flex;
+}
+.frame-parent75 {
+  height: 55px;
+  background-color: #fff;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  min-width: 350px;
+  top: 0;
+  position: sticky;
+  max-width: 100%;
+  z-index: 99;
+  text-align: left;
+  font-size: 15px;
+  color: #3c3c3c;
+  font-family: Poppins;
+}
+.bookviewpage {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-book15 {
+  position: relative;
+}
+.login-landpage-inner3,
+.recipe-book-wrapper3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.recipe-book-wrapper3 {
+  border-radius: 5px;
+  background-color: #f8d415;
+  justify-content: center;
+  padding: 3px 10px;
+}
+.login-landpage-inner3 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.recipes-that-makes7 {
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+  white-space: pre-wrap;
+}
+.recipes-that-makes-every-food-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px 35px 10px 0;
+  font-size: 12.5px;
+  color: #767171;
+}
+.icons8-home-30-111 {
+  width: 15px;
+  position: relative;
+  height: 15px;
+  object-fit: cover;
+}
+.home-login12 {
+  flex: 1;
+  position: relative;
+  font-size: 11px;
+  font-weight: 500;
+  font-family: Poppins;
+  color: #525252;
+  text-align: left;
+}
+.frame-wrapper53,
+.home-login-wrapper7 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.icons8-home-30-1-parent6 {
+  width: 91px;
+  border-radius: 8px;
+  background-color: #d6d6d6;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+  box-sizing: border-box;
+  gap: 0 5px;
+}
+.frame-wrapper51,
+.frame-wrapper52 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-wrapper52 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 90px;
+}
+.frame-wrapper51 {
+  width: 91px;
+}
+.frame-wrapper50 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.login-landpage-inner4,
+.login-landpage8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.login-landpage-inner4 {
+  align-self: stretch;
+}
+.login-landpage8 {
+  width: 100%;
+  gap: 4px 0;
+  max-width: 600px;
+  font-size: 24px;
+}
+.about-book {
+  position: relative;
+  font-weight: 500;
+}
+.about-book-wrapper {
+  width: 435px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px 0;
+  box-sizing: border-box;
+  color: #4b4b4b;
+}
+.author {
+  position: relative;
+  font-weight: 600;
+}
+.author-wrapper {
+  border-radius: 5px;
+  background-color: #ffb800;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 5px;
+}
+.dr-ram-yadv {
+  position: relative;
+}
+.dr-ram-yadv-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0;
+  color: #282828;
+}
+.frame-parent79 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.publisher1 {
+  position: relative;
+  font-weight: 600;
+}
+.publisher-container {
+  border-radius: 5px;
+  background-color: #ffb800;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 5px;
+}
+.asian-publication {
+  position: relative;
+}
+.asian-publication-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0;
+  color: #282828;
+}
+.frame-parent80 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.published-date2 {
+  position: relative;
+  font-weight: 600;
+}
+.published-date-frame {
+  border-radius: 5px;
+  background-color: #ffb800;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 5px;
+}
+.div7 {
+  position: relative;
+}
+.wrapper3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0;
+  color: #282828;
+}
+.frame-parent81 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.language {
+  position: relative;
+  font-weight: 600;
+}
+.language-wrapper {
+  border-radius: 5px;
+  background-color: #ffb800;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 5px;
+}
+.nepali14 {
+  position: relative;
+}
+.nepali-wrapper11 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0;
+  color: #282828;
+}
+.frame-parent82 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent78 {
+  align-self: stretch;
+  border-radius: 10px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 10px 10px;
+}
+.frame-wrapper54 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 600px;
+  font-size: 10px;
+  color: #fff;
+}
+.about-author {
+  position: relative;
+  font-weight: 500;
+}
+.about-author-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px 0;
+}
+.dr-ram-yad {
+  flex: 1;
+  position: relative;
+  font-weight: 300;
+}
+.dr-ram-yad-is-famous-writes-a-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px 0;
+  font-size: 12px;
+  color: #767171;
+}
+.frame-parent83,
+.login-landpage-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent83 {
+  width: 100%;
+  max-width: 600px;
+  color: #3a3a3a;
+}
+.login-landpage-parent {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #f6f0f0;
+  padding: 20px 15px 20px 20px;
+  box-sizing: border-box;
+  gap: 10px 0;
+  min-width: 350px;
+}
+.seto-dharti-new-edition-amar-n-icon {
+  width: 301px;
+  position: relative;
+  border-radius: 5px;
+  height: 382px;
+  object-fit: cover;
+}
+.icons8-download-52-1 {
+  width: 23px;
+  position: relative;
+  height: 21px;
+  object-fit: cover;
+}
+.download-book {
+  position: relative;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: Poppins;
+  color: #fff;
+  text-align: left;
+}
+.frame-wrapper55,
+.icons8-download-52-1-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.icons8-download-52-1-parent {
+  width: 193px;
+  gap: 0 20px;
+}
+.frame-wrapper55 {
+  cursor: pointer;
+  border: 0;
+  padding: 10px;
+  background-color: #54c000;
+  width: 301px;
+  border-radius: 4px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.seto-dharti-new-edition-amar-n-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px 0;
+}
+.frame-parent77 {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 19px;
+  max-width: 800px;
+}
+.bookviewpage-parent,
+.frame-wrapper49 {
+  background-color: #e9e9e9;
+  display: flex;
+  flex-direction: column;
+}
+.frame-wrapper49 {
+  align-self: stretch;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 100px;
+  box-sizing: border-box;
+  min-width: 350px;
+}
+.bookviewpage-parent {
+  width: 100%;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 15px;
+  color: #0fa214;
+  font-family: Poppins;
+}
+.file-download-successful {
+  position: relative;
+  font-weight: 600;
+}
+.file-download-successful-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+.icons8-in-progress-100-1-1 {
+  width: 32px;
+  position: relative;
+  height: 29px;
+  object-fit: cover;
+}
+.frame-parent84 {
+  position: relative;
+  border-radius: 6px;
+  background-color: #fff;
+  height: 95px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 20px 20px;
+  box-sizing: border-box;
+  gap: 6px 0;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: 12px;
+  color: #2ba400;
+  font-family: Poppins;
+}
